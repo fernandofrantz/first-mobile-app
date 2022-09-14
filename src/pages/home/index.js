@@ -28,6 +28,34 @@ const list = [
     date: "15/09/2022",
     type: 1, //receita
   },
+  {
+    id: 4,
+    label: "Proventos",
+    value: "49,00",
+    date: "15/09/2022",
+    type: 1, //receita
+  },
+  {
+    id: 5,
+    label: "Conta de àgua",
+    value: "147,00",
+    date: "15/09/2022",
+    type: 0, //receita
+  },
+  // {
+  //   id: 6,
+  //   label: "Salário",
+  //   value: "2400,00",
+  //   date: "15/09/2022",
+  //   type: 1, //receita
+  // },
+  // {
+  //   id: 7,
+  //   label: "Salário",
+  //   value: "2400,00",
+  //   date: "15/09/2022",
+  //   type: 1, //receita
+  // },
 ];
 
 export default function Home() {

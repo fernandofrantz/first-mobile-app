@@ -55,7 +55,7 @@ const styles = StyleSheet.create({
   },
   itemTitle: {
      fontSize: 20,
-     color: "#dadada"
+     color: "#767082"
   },
   content: {
     flexDirection: "row",
@@ -63,7 +63,8 @@ const styles = StyleSheet.create({
   },
   currencySymbol: {
     marginRight: 6,
-    color: "#dadada"
+    fontSize: 18,
+    color: "##767082"
   },
   balance: {
     fontSize: 22,

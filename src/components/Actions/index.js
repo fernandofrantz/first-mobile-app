@@ -54,8 +54,7 @@ const styles = StyleSheet.create({
     marginBottom: 14,
     marginTop: 18,
     paddingEnd: 14, 
-    paddingStart: 14
-
+    paddingStart: 14,
   },
   actionButton: {
     alignItems: "center",

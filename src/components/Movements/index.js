@@ -46,7 +46,7 @@ const styles = StyleSheet.create({
     flex: 1,
     marginBottom: 24,
     borderBottomWidth: 0.5,
-    borderBottomColor: "#ffffff",
+    borderBottomColor: "#373342",
   },
   content: {
     flexDirection: "row",
@@ -55,7 +55,7 @@ const styles = StyleSheet.create({
     marginBottom: 8,
   },
   date: {
-    color: "#dadada",
+    color: "#767082",
     fontWeight: "bold",
   },
   label: {
